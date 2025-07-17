@@ -4,7 +4,11 @@
   text-align: center; 
 }
 
+a:visited{
+  color: black;
+}
+
 #title a {
   color: #000000
-  font-size: 16; 
+  font-size: 16;
 }
